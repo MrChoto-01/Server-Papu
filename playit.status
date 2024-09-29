@@ -1,268 +1,946 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727581948761 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727645881590 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581951845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645884703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581954924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645887822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581958016 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727645902971 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581961093 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645906133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581964181 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645909254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581967261 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645912796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581970742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645915870 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581973829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645918982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581976905 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645926273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581980122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645929447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581983375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645932545 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581986481 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645936008 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581989651 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645939108 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581992755 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645942230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581995829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645945643 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727581998922 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645951362 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582002005 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645954490 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582005163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645957777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582008259 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645961023 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582011343 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645964251 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582014874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645967521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582019705 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645971202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582022780 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645974748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582025858 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645978249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582028937 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645981598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582032016 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645984733 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582035141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727645987823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582038223 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727646003151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582041298 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646006256 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582044386 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646009451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582048491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646012609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582051574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646016878 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582054648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646020069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582057725 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646024714 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582060804 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646028492 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582064036 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646031716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582067128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646034902 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582070230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646038077 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582073305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646041837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582076530 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727646057171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582079615 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646060900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582082688 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646065238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582085767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646068358 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727582088891 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727646071494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646074687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646078569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646081644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646084727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646088024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646091303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646094468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646097555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646100749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646103829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646107220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646110426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646113514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646116702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646119927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646123089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646126231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646129452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646132622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646139388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646142532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646145657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646148811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646151895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646154991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646158075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646161445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646164524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646168328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646173835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646177101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646180984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646184210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646190853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646194018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646197416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646200709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646204450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646207515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646210659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646213847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646216978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646220052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646223256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646226327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646229452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646232567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646235687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646238963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646242045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646245241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646248469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646251567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646254640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646257837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646260961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727646278052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646282435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646285512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646288761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646291953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646295119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646298222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646301330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646304407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646307487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646310644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646313727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646316873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646319955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646324086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646327152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646330433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646333651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646336796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646339914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646343027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646346202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646349409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646352502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646356201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646359935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646364573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727646373688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646376783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646379932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646383066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646386179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646389715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727646405016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646408202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646411298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646414450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646417529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646421045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646427109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646430388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646433562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646436778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646439853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646443222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646446552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646449704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646452799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646457191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646460274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646463359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646466894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646470251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+already-tue.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+plus-uncertainty.gl.at.ply.gg:3873 => 127.0.0.1:3873 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727646473679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
